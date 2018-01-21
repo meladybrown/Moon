@@ -1,6 +1,6 @@
 ---
-layout: post-list
-title: All Posts
-excerpt: "A List of Posts"
+layout: craft & diy
+title: All Craft & DIY
+excerpt: "A List of Craft & DIY"
 comments: false
 ---
