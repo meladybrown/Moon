@@ -1,6 +1,6 @@
 ---
-layout: travel
-title: All Travel
-excerpt: "A List of Travel"
+layout: project
+title: All Project
+excerpt: "A List of Project"
 comments: false
 ---
