@@ -1,8 +1,4 @@
 # Site navigation links
 
-- title: Craft & DIY
-  url: /craft&diy/
-- title: Travel
-  url: /travel/
-- title: Musings
-  url: /musings/
+- title: Projects
+  url: /projects/
