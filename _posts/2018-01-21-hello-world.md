@@ -3,7 +3,7 @@ layout: post
 title: "Hello World!"
 date: 2018-01-21
 excerpt: "When in doubt, always Will Smith it."
-tags: [personal]
+tags: [musings]
 comments: false
 ---
 
